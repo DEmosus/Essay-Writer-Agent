@@ -90,7 +90,7 @@ to loop back for another revision or stop. Full write-up in
 ## Installation
 
 ```bash
-git clone <your-repo-url> essay-writer-agent
+git clone git@github.com:DEmosus/Essay-Writer-Agent.git
 cd essay-writer-agent
 
 python3 -m venv .venv
