@@ -1,0 +1,13 @@
+# For an exact, reproducible environment use requirements-lock.txt instead:
+#   pip install -r requirements-lock.txt
+
+langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-openai
+tavily-python
+pydantic
+python-dotenv
+
+# Testing
+pytest
